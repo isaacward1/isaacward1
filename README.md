@@ -17,7 +17,7 @@
   
   - Honeypot w/ Azure Sentinel
   
-  - PowerShell Ransomware Example
+  - PowerShell Ransomware Demo
 
   - GVM to Database Automation
   
