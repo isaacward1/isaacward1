@@ -19,7 +19,7 @@
   
   - PowerShell Ransomware Demo
 
-  - GVM to Database Automation
+  - Nessus to Database Automation
   
   - Oracle VPS (Wireguard VPN, Tor Relay)
 
