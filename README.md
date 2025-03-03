@@ -18,7 +18,7 @@
 
   - OPNsense Firewall on KVM
   
-  - Privacy VPS Tutorial (WireGuard VPN, Tor Node)
+  - DIY VPN Tutorial
 
   - PowerShell Ransomware Demo
 
