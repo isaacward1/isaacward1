@@ -8,6 +8,7 @@
 
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
+  - [Wazuh XDR Vuln Management](https://github.com/isaacward1/homeserv-sec/tree/main/Wazuh)
     
   </strong>
 <br>
@@ -30,8 +31,6 @@
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
 - [Active Directory Home Lab](https://github.com/isaacward1/AD-HomeLab)
-
-- [Wazuh XDR Deployment](https://github.com/isaacward1/homeserv-sec/tree/main/Wazuh)
 
 </strong>
 <br>
