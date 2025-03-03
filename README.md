@@ -14,14 +14,12 @@
 
 ## 🚀 Future Projects:
   <strong>
-  
-  - Honeypot w/ Azure Sentinel
-  
-  - PowerShell Ransomware Demo
 
-  - Nessus to Database Automation
+  - OPNsense Firewall on KVM
   
-  - Oracle VPS (Wireguard VPN, Tor Relay)
+  - Privacy VPS Tutorial (WireGuard VPN, Tor Node)
+
+  - PowerShell Ransomware Demo
 
   </strong>
 <br>
