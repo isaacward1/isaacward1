@@ -59,9 +59,10 @@
   <img src="/images/nessus.png" width="75" height="75" title="Nessus">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/greenbone.svg" width="75" height="75" title="GVM">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/wazuh.svg" width="75" height="75" title="Wazuh">
+  <img src="/images/suricata.png" width="75" height="75" title="Suricata">
+  <img src="/images/zeek.png" width="75" height="75" title="Zeek">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/splunk.svg" width="75" height="75" title="Splunk">
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="75" height="75" title="Azure">
   <img src="/images/crowdstrike.png" width="75" height="75" title="Crowdstrike Falcon">
   <img src="/images/recorded-future.png" width="75" height="75" title="Recorded Future">
-  <img src="/images/suricata.png" width="75" height="75" title="Suricata">
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="70" height="70" title="Azure">
 </div>
