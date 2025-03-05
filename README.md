@@ -65,5 +65,5 @@
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/recorded-future.png" width="75" height="75" title="Recorded Future">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="70" height="70" title="Azure">
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/zendesk.svg" width="75" height="75" title="Zendesk">
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/zendesk.svg" width="80" height="75" title="Zendesk">
 </div>
