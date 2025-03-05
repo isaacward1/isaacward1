@@ -60,12 +60,7 @@
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/greenbone.svg" width="75" height="75" title="GVM">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/wazuh.svg" width="75" height="75" title="Wazuh">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/splunk.svg" width="75" height="75" title="Splunk">
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="75" height="75" title="Azure">
   <img src="/images/crowdstrike.png" width="75" height="75" title="Crowdstrike Falcon">
   <img src="/images/suricata.png" width="75" height="75" title="Suricata">
-</div>
-
-<div style="display: flex;">
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="75" height="75" title="Azure">
-
-  
 </div>
