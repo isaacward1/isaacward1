@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="75" height="75" title="MariaDB">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="75" height="75" title="SQLite">
   <img src="/images/vmware-workstation.png" width="75" height="75" title="VMware Workstation">
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/zendesk.svg" width="75" height="75" title="Zendesk">
+  <img src="/images/proxmox.png" width="75" height="75" title="Proxmox">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker-moby.svg" width="75" height="75" title="Docker">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="75" height="75" title="VS Code">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="75" height="75" title="DBeaver">
@@ -65,4 +65,5 @@
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/recorded-future.png" width="75" height="75" title="Recorded Future">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="70" height="70" title="Azure">
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/zendesk.svg" width="75" height="75" title="Zendesk">
 </div>
