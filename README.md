@@ -62,7 +62,7 @@
   <img src="/images/suricata.png" width="75" height="75" title="Suricata">
   <img src="/images/zeek.png" width="75" height="75" title="Zeek">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/splunk.svg" width="75" height="75" title="Splunk">
-  <img src="/images/crowdstrike.png" width="75" height="75" title="Crowdstrike Falcon">
+  <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/recorded-future.png" width="75" height="75" title="Recorded Future">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="70" height="70" title="Azure">
 </div>
