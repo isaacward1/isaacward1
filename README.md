@@ -18,7 +18,7 @@
 
   - OPNsense Firewall on KVM
   
-  - DIY VPN/Tor relay Tutorial
+  - DIY VPN Tutorial
 
   - PowerShell Ransomware Demo
 
