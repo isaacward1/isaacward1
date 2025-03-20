@@ -1,5 +1,5 @@
 <h1> Waddup :wave:, I'm Isaac! 😎 </h1>
-i use this space to log the cool stuff im doing and the toys ive played with. Repos are updated once in a blue moon (never)
+i use this space to log some of the cool stuff im doing. Repos are updated once in a blue moon (never)
 
 <br><br>
 
