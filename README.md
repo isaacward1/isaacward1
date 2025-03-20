@@ -1,5 +1,7 @@
-<h1> Hey there :wave:, I'm Isaac! 😎 </h1>
-<br>
+<h1> Waddup :wave:, I'm Isaac! 😎 </h1>
+i log some of the cool stuff i do/plan to do at some point. Repos are updated once in a blue moon (never)
+
+<br><br>
 
 ## 📌 Current Projects:
   <strong>
