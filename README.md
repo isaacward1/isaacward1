@@ -1,5 +1,5 @@
 <h1> Waddup :wave:, I'm Isaac! 😎 </h1>
-i use this platform to log some of the cool stuff i do/plan to do at some point. Repos are updated once in a blue moon (never)
+i use this platform to log some of the cool stuff im doing. Repos are updated once in a blue moon (never)
 
 <br><br>
 
