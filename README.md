@@ -57,7 +57,6 @@ i use this space to log some of the cool stuff im doing. Repos are updated once 
   <img src="/images/kali-linux.png" title="Kali Linux" width="75" height="75">
   <img src="images/wireshark.png" alt="Description of the image" title="Wireshark" width="75" height="75">
   <img src="images/nmap.png" alt="Description of the image" title="Nmap" width="75" height="75">
-  <img src="/images/metasploit.png" width="75" height="75" title="Metasploit">
   <img src="/images/nessus.png" width="75" height="75" title="Nessus">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/greenbone.svg" width="75" height="75" title="GVM">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/wazuh.svg" width="75" height="75" title="Wazuh">
