@@ -1,5 +1,5 @@
 <h1> Waddup :wave:, I'm Isaac! 😎 </h1>
-i use this space to log some of the cool stuff im doing. Repos are updated once a century
+i use this space to log some of the stuff im doing. Repos are updated once a century
 
 <br><br>
 
