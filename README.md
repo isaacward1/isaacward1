@@ -3,7 +3,7 @@ i use this space to record some of the stuff i do. repos are updated once a cent
 
 <br><br>
 
-## 📌 Current Projects:
+## 📌 Current Projects
   <strong>
 
   - [Simple Python Infostealer](https://github.com/isaacward1/py-infostealer)
@@ -15,7 +15,7 @@ i use this space to record some of the stuff i do. repos are updated once a cent
   </strong>
 <br>
 
-## 🚀 Future Projects:
+## 🚀 Future Projects
   <strong>
 
   - OPNsense Firewall on KVM
@@ -29,7 +29,7 @@ i use this space to record some of the stuff i do. repos are updated once a cent
   </strong>
 <br>
 
-## 📅 Past Projects:
+## 📅 Past Projects
 <strong>
   
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
@@ -39,8 +39,8 @@ i use this space to record some of the stuff i do. repos are updated once a cent
 </strong>
 <br>
 
-<!-- ## 🐍 Languages & Tools 🛠️: -->
-## 🧸 Toys:
+<!-- ## 🐍 Languages & Tools 🛠️ -->
+## 🧸 Toys
 <div style="display: flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75" height="75" title="Python">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
