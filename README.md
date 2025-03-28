@@ -39,8 +39,8 @@ i use this space to record some of the stuff i do. repos are updated once a cent
 </strong>
 <br>
 
-## 🐍 Languages & Tools 🛠️:
-
+<!-- ## 🐍 Languages & Tools 🛠️: -->
+## 🧸 Toys:
 <div style="display: flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75" height="75" title="Python">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
