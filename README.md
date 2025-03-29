@@ -20,7 +20,7 @@ i use this space to record some of the stuff i do. repos are updated once a cent
 
   - OPNsense Firewall on KVM
   
-  - DIY VPN Tutorial
+  - WireGuard Tutorial
 
   - DNS query monitor (tcpdump + VirusTotal python API)
 
