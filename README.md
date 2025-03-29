@@ -22,7 +22,7 @@ i use this space to record some of the stuff i do. repos are updated once a cent
   
   - DIY VPN Tutorial
 
-  - PowerShell Ransomware Demo
+  - DNS query monitor (tcpdump + VirusTotal python API)
 
   - OpenWRT stuff
 
