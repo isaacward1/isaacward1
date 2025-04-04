@@ -22,7 +22,7 @@ i use this space to record some of the stuff i do. repos are updated once a cent
   
   - WireGuard Tutorial
 
-  - DNS query monitor (tcpdump + VirusTotal python API)
+  - DNS query monitor (tcpdump + VirusTotal API)
 
   - OpenWRT stuff
 
