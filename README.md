@@ -1,5 +1,5 @@
-<h1> hey :wave:, i'm Isaac! 😎 </h1>
-i use this space to record some of the stuff i do. repos are updated once a century
+<h1> hey :wave:, I'm Isaac! 😎 </h1>
+idk what this is. repos are updated once a century
 
 <br><br>
 
@@ -25,6 +25,8 @@ i use this space to record some of the stuff i do. repos are updated once a cent
   - DNS query monitor (tcpdump + VirusTotal API)
 
   - OpenWRT stuff
+
+  - Packet Tracer stuff
 
   </strong>
 <br>
