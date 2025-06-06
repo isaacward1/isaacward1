@@ -9,8 +9,6 @@ idk what this is. repos are updated once a century
   - [Simple Python Infostealer](https://github.com/isaacward1/py-infostealer)
 
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
-
-  - [Wazuh & Metasploitable3](https://github.com/isaacward1/homeserv-sec/tree/main/Wazuh)
     
   </strong>
 <br>
