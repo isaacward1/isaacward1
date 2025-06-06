@@ -9,6 +9,8 @@ idk what this is. repos are updated once a century
   - [Simple Python Infostealer](https://github.com/isaacward1/py-infostealer)
 
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
+
+  - DIY WireGuard
     
   </strong>
 <br>
@@ -17,8 +19,6 @@ idk what this is. repos are updated once a century
   <strong>
 
   - OPNsense Firewall on KVM
-  
-  - WireGuard Tutorial
 
   - DNS query monitor (tcpdump + VirusTotal API)
 
