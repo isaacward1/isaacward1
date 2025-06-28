@@ -28,6 +28,8 @@ idk what this is. repos are updated once a century
 
   - Packet Tracer stuff
 
+  - HTML Source Malicious JS String Finder
+
   </strong>
 <br>
 
@@ -71,6 +73,6 @@ idk what this is. repos are updated once a century
   <img src="/images/sentinelone.png" width="75" height="85" title="SentinelOne">
 </div>
 
-  <!-- hidden
- 
+  <!-- 
+ hidden
   -->
