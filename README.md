@@ -45,7 +45,7 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 
 <!-- ## 🐍 Languages & Tools 🛠️ -->
 ## 🧸 Toys
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="75" height="75" title="Python">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="75" height="75" title="Bash">
@@ -71,7 +71,7 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   <img src="/images/mssentinel.png" width="75" height="75" title="Microsoft Sentinel">
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/sentinelone.png" width="65" height="75" title="SentinelOne">
-  <img src="/images/recorded-future.png" width="75" height="75" title="Recorded Future">
+  <img src="/images/RecordedFuture.png" width="75" height="75" title="Recorded Future">
 </div>
 
   <!-- 
