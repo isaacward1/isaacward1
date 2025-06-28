@@ -52,11 +52,11 @@ idk what this is. repos are updated once a century
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="75" height="75" title="MariaDB">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="75" height="75" title="SQLite">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="75" height="75" title="DBeaver">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="75" height="75" title="Git">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="75" height="75" title="VS Code">
   <img src="/images/vmware-workstation.png" width="75" height="75" title="VMware Workstation">
   <img src="/images/proxmox.png" width="75" height="75" title="Proxmox">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker-moby.svg" width="75" height="75" title="Docker">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="75" height="75" title="Git">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="70" height="70" title="Azure">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="75" height="75" title="Linux">
   <img src="/images/kali-linux.png" title="Kali Linux" width="75" height="75">
