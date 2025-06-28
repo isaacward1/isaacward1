@@ -28,7 +28,7 @@ idk what this is. repos are updated once a century
 
   - Packet Tracer stuff
 
-  - HTML Source Malicious JS String Finder
+  - HTML Source Summarizer/JS Inspector
 
   </strong>
 <br>
