@@ -1,5 +1,5 @@
 <h1> yo :wave:, I'm Isaac! 😎 </h1>
-idk what this is. repos are updated when i feel like it (never) 😴
+idk what to put here. repos are updated when i feel like it (never) 😴
 
 <br><br>
 
