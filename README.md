@@ -68,7 +68,7 @@ idk what this is. repos are updated once a century
   <img src="/images/mssentinel.png" width="75" height="75" title="MS Sentinel">
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/recorded-future.png" width="75" height="75" title="Recorded Future">
-  <img src="/images/sentinelone.png" width="75" height="75" title="SentinelOne">
+  <img src="/images/sentinelone.png" width="75" height="85" title="SentinelOne">
 </div>
 
   <!-- hidden
