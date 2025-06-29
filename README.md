@@ -36,6 +36,8 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 ## 📅 Past Projects
 <strong>
   
+- [OSINT Automation Tool](https://github.com/isaacward1/autoOSINT)
+
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
 - [Active Directory Home Lab](https://github.com/isaacward1/AD-HomeLab)
