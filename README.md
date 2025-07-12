@@ -61,7 +61,6 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="75" height="75" title="Git">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" width="70" height="70" title="Azure">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="75" height="75" title="Linux">
-  <img src="/images/kali-linux.png" title="Kali Linux" width="75" height="75">
   <img src="images/wireshark.png" alt="Description of the image" title="Wireshark" width="75" height="75">
   <img src="images/nmap.png" alt="Description of the image" title="Nmap" width="75" height="75">
   <img src="/images/nessus.png" width="75" height="75" title="Nessus">
@@ -77,5 +76,5 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 </div>
 
   <!-- 
- hidden
+ <img src="/images/kali-linux.png" title="Kali Linux" width="75" height="75">
   -->
