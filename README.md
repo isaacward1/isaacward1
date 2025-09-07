@@ -20,15 +20,13 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 ## 🚀 Future Projects
   <strong>
 
-  - OPNsense Firewall on KVM
-
-  - DNS query monitor (tcpdump + VirusTotal API)
-
-  - OpenWRT stuff
+  - DNS query monitor (tcpdump, VirusTotal API)
 
   - Packet Tracer stuff
 
   - HTML Source Summarizer/JS Inspector
+
+  - something in Go (idk yet)
 
   </strong>
 <br>
