@@ -6,8 +6,6 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 ## 📌 Current Projects
   <strong>
 
-  - [Simple Python Infostealer](https://github.com/isaacward1/py-infostealer)
-
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
   - [T-Pot Multi-Honeypot on Azure](https://isaacward1.github.io/posts/azure-tpot/)
