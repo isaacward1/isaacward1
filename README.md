@@ -24,7 +24,7 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 
   - HTML Source Summarizer/JS Inspector
 
-  - something in Go (idk yet)
+  - something in Go idk
 
   </strong>
 <br>
