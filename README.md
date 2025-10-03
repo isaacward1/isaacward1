@@ -69,8 +69,8 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   <img src="/images/RecordedFuture.png" width="75" height="75" title="Recorded Future">
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/sentinelone.png" width="65" height="75" title="SentinelOne">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAE0lEQVR42mP8/5+hHgAHggJ/PqRC5wAAAABJRU5ErkJggg==" width="16" height="75" alt="" />
-  <img src="/images/stamus.png" width="75" height="75" title="Stamus Networks">
+  <img src="/images/spacer.png">
+  <img src="/images/stamus.jpg" width="75" height="75" title="Stamus Networks">
 </div>
 
   <!-- 
