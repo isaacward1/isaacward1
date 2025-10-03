@@ -69,7 +69,6 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   <img src="/images/RecordedFuture.png" width="75" height="75" title="Recorded Future">
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/sentinelone.png" width="65" height="75" title="SentinelOne">
-  <img src="/images/spacer.png" width="2">
   <img src="/images/stamus.png" width="75" height="75" title="Stamus Networks">
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
 </div>
