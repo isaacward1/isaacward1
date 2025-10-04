@@ -67,7 +67,7 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/splunk.svg" width="75" height="75" title="Splunk">
   <img src="/images/mssentinel.png" width="75" height="75" title="Microsoft Sentinel">
   <img src="/images/RecordedFuture.png" width="75" height="75" title="Recorded Future">
-  <img src="/images/stamus.png" width="75" height="75" title="Stamus Networks">
+  <img src="/images/stamus.png" width="70" height="70" title="Stamus Networks">
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/sentinelone.png" width="65" height="75" title="SentinelOne">
 </div>
