@@ -11,8 +11,8 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
   - Mal Analysis Sandbox
-  
-  - DIY WireGuard
+
+  - HTTP request to curl script
     
   </strong>
 <br>
@@ -27,6 +27,8 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   - HTML Source Summarizer/JS Inspector
 
   - something in Go idk
+
+  - WireGuard tutorial
 
   </strong>
 <br>
