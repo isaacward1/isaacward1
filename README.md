@@ -9,6 +9,8 @@ idk what to write here. repos are updated when i feel like it (never) 😴
   - [T-Pot Multi-Honeypot on Azure](https://isaacward1.github.io/posts/azure-tpot/)
 
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
+
+  - Mal Analysis Sandbox
   
   - DIY WireGuard
     
