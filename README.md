@@ -22,11 +22,11 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 
   - DNS query monitor (tcpdump, VirusTotal API)
 
-  - Packet Tracer stuff
-
   - HTML Source Summarizer/JS Inspector
 
   - something in Go idk
+
+  - Suricata rule generator
 
   - WireGuard tutorial
 
