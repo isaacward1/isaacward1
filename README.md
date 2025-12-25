@@ -10,7 +10,7 @@ idk what to write here. repos are updated when i feel like it (never) 😴
 
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
-  - Mal Analysis Sandbox
+  - [Mal Analysis Sandbox](https://github.com/isaacward1/mal-sandbox)
 
   - HTTP request to curl script
     
