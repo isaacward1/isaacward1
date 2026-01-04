@@ -1,5 +1,5 @@
-<h1> yo :wave:, I'm Isaac! 😎 </h1>
-idk what to write here. repos are updated when i feel like it (never) 😴
+<h1> yo :wave:, i'm Isaac! 😎 </h1>
+idek.
 
 <br><br>
 
