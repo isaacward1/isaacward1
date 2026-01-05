@@ -1,5 +1,5 @@
 <h1> yo :wave:, i'm Isaac! 😎 </h1>
-idek.
+idk
 
 <br><br>
 
