@@ -7,12 +7,14 @@ idek.
   <strong>
 
   - [T-Pot Multi-Honeypot on Azure](https://isaacward1.github.io/posts/azure-tpot/)
-
+    
+  - [Mal Analysis Sandbox](https://github.com/isaacward1/mal-sandbox)
+    
+  - HTTP request to curl script
+    
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
-  - [Mal Analysis Sandbox](https://github.com/isaacward1/mal-sandbox)
 
-  - HTTP request to curl script
     
   </strong>
 <br>
