@@ -22,15 +22,13 @@ idk
 ## 🚀 Future Projects
   <strong>
 
-  - DNS query monitor (tcpdump, VirusTotal API)
+  - HTML source summarizer/JS inspector
 
-  - HTML Source Summarizer/JS Inspector
+  - something in Go
 
-  - something in Go idk
+  - Suricata ruleset
 
-  - Suricata rule generator
-
-  - WireGuard tutorial
+  - DNS query monitor (tcpdump, virustotal API)
 
   </strong>
 <br>
