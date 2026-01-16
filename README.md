@@ -36,7 +36,7 @@
 ## 📅 Past Projects
 <strong>
   
-- [OSINT Automation Tool](https://github.com/isaacward1/autoOSINT)
+- [Triage Automation Tool](https://github.com/isaacward1/autoOSINT)
 
 - [PowerShell File Integrity Monitor](https://github.com/isaacward1/PowerShell-FIM)
 
