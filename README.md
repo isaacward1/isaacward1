@@ -22,15 +22,17 @@
 ## 🚀 Future Projects
   <strong>
 
+  - IOC string binary parser
+
   - HTTP request to curl request generator 
 
   - Triage automation browser extension
 
   - HTML source/JS summarizer
 
-  - Something in Go
-
   - Suricata ruleset
+  
+  - Something in Go
 
   </strong>
 <br>
