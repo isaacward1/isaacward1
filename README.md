@@ -22,13 +22,15 @@
 ## 🚀 Future Projects
   <strong>
 
-  - HTML source summarizer/JS inspector
+  - HTTP request to curl request generator 
 
-  - something in Go
+  - Triage automation browser extension
+
+  - HTML source/JS summarizer
+
+  - Something in Go
 
   - Suricata ruleset
-
-  - DNS query monitor (tcpdump, virustotal API)
 
   </strong>
 <br>
