@@ -7,15 +7,13 @@
   <strong>
 
   - [T-Pot Multi-Honeypot on Azure](https://isaacward1.github.io/posts/azure-tpot/)
-    
+
   - [Mal Analysis Sandbox](https://github.com/isaacward1/mal-sandbox)
-    
-  - HTTP request to curl script
-    
+
+  - HTTP request to curl generator
+
   - [Home Security Server](https://github.com/isaacward1/homeserv-sec)
 
-
-    
   </strong>
 <br>
 
@@ -23,8 +21,6 @@
   <strong>
 
   - IOC string binary parser
-
-  - HTTP request to curl request generator 
 
   - Triage automation browser extension
 
