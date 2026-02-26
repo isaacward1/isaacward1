@@ -10,8 +10,6 @@
 
   - [Mal Analysis Sandbox](https://github.com/isaacward1/mal-sandbox)
 
-  - SOC multi-tool
-
   </strong>
 <br>
 
