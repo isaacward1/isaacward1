@@ -20,11 +20,9 @@
 
   - IOC string binary parser
 
-  - HTML source/JS summarizer
-
-  - Suricata ruleset
+  - Suricata, YARA ruleset
   
-  - Something in Go
+  - Something in Go idk
 
   </strong>
 <br>
