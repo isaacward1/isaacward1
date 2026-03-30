@@ -46,7 +46,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="75" height="75" title="PowerShell">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="75" height="75" title="Bash">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="75" height="75" title="VS Code">
+  <img src="/images/llama-cpp.png" width="75" height="75" title="llama.cpp">
   <img src="/images/proxmox.png" width="75" height="75" title="Proxmox">
+  <img src="/images/qemu.png" width="75" height="75" title="QEMU">
   <img src="/images/vmware-workstation.png" width="75" height="75" title="VMware Workstation">
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker-moby.svg" width="75" height="75" title="Docker">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="75" height="75" title="Git">
@@ -65,10 +67,5 @@
   <img src="/images/stamus.png" width="70" height="70" title="SN Clear NDR">
   <img src="/images/crowdstrike.png" width="75" height="75" title="CrowdStrike Falcon">
   <img src="/images/sentinelone.png" width="65" height="75" title="SentinelOne">
+  <img src="/images/elasticsearch.png" width="75" height="75" title="Elasticsearch">
 </div>
-
-<!--
-<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="75" height="75" title="MariaDB">
-<img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="75" height="75" title="DBeaver">
-<img src="/images/kali-linux.png" title="Kali Linux" width="75" height="75">
--->
