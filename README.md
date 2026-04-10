@@ -9,7 +9,7 @@
 
   - [Mal Analysis Sandbox](https://github.com/isaacward1/mal-sandbox)
 
-  - [File Analysis Report Generator](https://github.com/isaacward1/mal-reporter) (PowerShell + static/dynamic analysis tools + output parser + LLM)
+  - [File Analysis Report Generator](https://github.com/isaacward1/mal-reporter)
 
   </strong>
 <br>
