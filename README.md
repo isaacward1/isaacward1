@@ -23,6 +23,8 @@
 
   - gist threat feed
 
+  - lockdown scripts
+
   </strong>
 <br>
 
