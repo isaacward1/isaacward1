@@ -5,11 +5,11 @@
 ## 📌 Current Projects
   <strong>
 
+  - [Mal analysis sandbox](https://github.com/iw-sec/mal-sandbox)
+
+  - [Agentic file analysis](https://github.com/iw-sec/mal-reporter)
+
   - [T-Pot](https://iw-sec.github.io/posts/azure-tpot/)
-
-  - [Mal Analysis Sandbox](https://github.com/iw-sec/mal-sandbox)
-
-  - [File Analysis Report Generator](https://github.com/iw-sec/mal-reporter)
 
   </strong>
 <br>
@@ -17,25 +17,13 @@
 ## 🚀 Future Projects
   <strong>
 
-  - IOC string binary parser
+  - Suricata, YARA rulesets
+    
+  - Multi-agent scanner to look for C2 infra
 
-  - Suricata, YARA ruleset
-  
-  - Something in Go idk
+  - gist threat feed
 
   </strong>
-<br>
-
-## 📅 Past Projects
-<strong>
-  
-- [Triage Automation Tool](https://github.com/iw-sec/autoOSINT)
-
-- [PowerShell File Integrity Monitor](https://github.com/iw-sec/PowerShell-FIM)
-
-- [Active Directory Home Lab](https://github.com/iw-sec/AD-HomeLab)
-
-</strong>
 <br>
 
 <!-- ## 🐍 Languages & Tools 🛠️ -->
